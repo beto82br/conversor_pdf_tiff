@@ -12,3 +12,4 @@ No Anaconda Navigator, instalar as bibliotecas:
 
 2 - pip install PyPDF2
 
+3 - pip install Pillow
